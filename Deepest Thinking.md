@@ -204,10 +204,9 @@ Remember: You MUST complete all steps for each theme. No shortcuts or rushed ana
 ## Usage Notes
 1. This protocol requires:
    - Tavily MCP server properly configured
-   - Brave Search MCP server
-   - Sequential Thinking tool access
-2. Works best with Claude 3.5 Sonnet or later
-3. Recommended to use in combination with Notebook LM for audio summaries
+   - Brave Search MCP server properly configured
+   - Sequential Thinking MCP server properly configured
+   - Claude Desktop
 
 ## Key Features
 * Structured three-stop research process
